@@ -1,0 +1,44 @@
+#  Shark Tank Startup Analysis (Power BI Project)
+
+##  Project Summary
+
+This Power BI dashboard presents an analytical view of startup funding trends based on data from the Indian edition of Shark Tank. The objective of this project is to uncover patterns in investor behavior, funding stages, and industry-specific investments using interactive and insightful visualizations.
+
+##  Key Insights
+
+-  **Total Investment**: ₹737.78 Cr across all deals.
+-  **Average Deal Size**: ₹4.85 Cr per investment.
+-  **Top Funding Stages**:
+  - **Seed**: ₹903.92 Cr
+  - **Series A**: ₹769.63 Cr
+  - **Pre-Series A**: ₹750.72 Cr
+
+- **Top Funded Industries**:
+  - Fashion: ₹758.98 Cr
+  - Food: ₹681.47 Cr
+  - AgriTech: ₹672.26 Cr
+
+- **Founder Backgrounds**:
+  - Diverse backgrounds including Engineers, MBA grads, and Entrepreneurs are well represented.
+
+## File Contents
+
+- `EL_DA_Project02.pbix`: Power BI report file.
+- `Screenshot.png`: A preview of the main dashboard.
+- `README.md`: Project documentation (this file).
+
+## Tools & Techniques
+
+- **Power BI Desktop** for visualization
+- **Power Query** for data transformation
+- **DAX** for calculated metrics and KPIs
+- **Slicers** and **interactions** for report interactivity
+
+## Dashboard Features
+
+- KPI Cards (Average, Sum, Total Investment)
+- Interactive slicers for:
+  - Founder Background
+  - Funding Stage
+  - Deal Status
+- Tree maps, bar charts, pie charts, and dot plots for various metrics
